@@ -1,0 +1,748 @@
+2026-10-06 14:27:56,505 | INFO | root | Starting scraping assignment pipeline
+2026-10-06 14:27:56,507 | INFO | scrapers.books_scraper | Books page 1: https://books.toscrape.com/
+2026-10-06 14:27:56,507 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/
+2026-10-06 14:27:59,060 | INFO | scrapers.books_scraper | Books page 1 parsed: 20 records
+2026-10-06 14:27:59,089 | INFO | scrapers.books_scraper | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 14:27:59,089 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 14:28:00,130 | INFO | scrapers.books_scraper | Books page 2 parsed: 20 records
+2026-10-06 14:28:00,166 | INFO | scrapers.books_scraper | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 14:28:00,172 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 14:28:01,212 | INFO | scrapers.books_scraper | Books page 3 parsed: 20 records
+2026-10-06 14:28:01,242 | INFO | scrapers.books_scraper | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 14:28:01,242 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 14:28:02,290 | INFO | scrapers.books_scraper | Books page 4 parsed: 20 records
+2026-10-06 14:28:02,318 | INFO | scrapers.books_scraper | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 14:28:02,318 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 14:28:03,369 | INFO | scrapers.books_scraper | Books page 5 parsed: 20 records
+2026-10-06 14:28:03,393 | INFO | scrapers.books_scraper | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 14:28:03,395 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 14:28:04,430 | INFO | scrapers.books_scraper | Books page 6 parsed: 20 records
+2026-10-06 14:28:04,498 | INFO | scrapers.books_scraper | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 14:28:04,498 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 14:28:05,539 | INFO | scrapers.books_scraper | Books page 7 parsed: 20 records
+2026-10-06 14:28:05,569 | INFO | scrapers.books_scraper | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 14:28:05,569 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 14:28:06,614 | INFO | scrapers.books_scraper | Books page 8 parsed: 20 records
+2026-10-06 14:28:06,685 | INFO | scrapers.books_scraper | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 14:28:06,695 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 14:28:07,477 | INFO | scrapers.books_scraper | Books page 9 parsed: 20 records
+2026-10-06 14:28:07,507 | INFO | scrapers.books_scraper | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 14:28:07,507 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 14:28:08,550 | INFO | scrapers.books_scraper | Books page 10 parsed: 20 records
+2026-10-06 14:28:08,575 | INFO | scrapers.books_scraper | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 14:28:08,575 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 14:28:09,366 | INFO | scrapers.books_scraper | Books page 11 parsed: 20 records
+2026-10-06 14:28:09,389 | INFO | scrapers.books_scraper | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 14:28:09,389 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 14:28:10,178 | INFO | scrapers.books_scraper | Books page 12 parsed: 20 records
+2026-10-06 14:28:10,211 | INFO | scrapers.books_scraper | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 14:28:10,211 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 14:28:11,001 | INFO | scrapers.books_scraper | Books page 13 parsed: 20 records
+2026-10-06 14:28:11,029 | INFO | scrapers.books_scraper | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 14:28:11,029 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 14:28:11,827 | INFO | scrapers.books_scraper | Books page 14 parsed: 20 records
+2026-10-06 14:28:11,862 | INFO | scrapers.books_scraper | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 14:28:11,864 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 14:28:12,906 | INFO | scrapers.books_scraper | Books page 15 parsed: 20 records
+2026-10-06 14:28:12,932 | INFO | scrapers.books_scraper | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 14:28:12,932 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 14:28:13,727 | INFO | scrapers.books_scraper | Books page 16 parsed: 20 records
+2026-10-06 14:28:13,752 | INFO | scrapers.books_scraper | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 14:28:13,752 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 14:28:14,565 | INFO | scrapers.books_scraper | Books page 17 parsed: 20 records
+2026-10-06 14:28:14,644 | INFO | scrapers.books_scraper | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 14:28:14,644 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 14:28:15,428 | INFO | scrapers.books_scraper | Books page 18 parsed: 20 records
+2026-10-06 14:28:15,460 | INFO | scrapers.books_scraper | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 14:28:15,460 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 14:28:16,327 | INFO | scrapers.books_scraper | Books page 19 parsed: 20 records
+2026-10-06 14:28:16,350 | INFO | scrapers.books_scraper | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 14:28:16,350 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 14:28:17,145 | INFO | scrapers.books_scraper | Books page 20 parsed: 20 records
+2026-10-06 14:28:17,176 | INFO | scrapers.books_scraper | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 14:28:17,176 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 14:28:17,959 | INFO | scrapers.books_scraper | Books page 21 parsed: 20 records
+2026-10-06 14:28:17,996 | INFO | scrapers.books_scraper | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 14:28:17,996 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 14:28:18,785 | INFO | scrapers.books_scraper | Books page 22 parsed: 20 records
+2026-10-06 14:28:18,810 | INFO | scrapers.books_scraper | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 14:28:18,810 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 14:28:19,595 | INFO | scrapers.books_scraper | Books page 23 parsed: 20 records
+2026-10-06 14:28:19,616 | INFO | scrapers.books_scraper | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 14:28:19,616 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 14:28:20,659 | INFO | scrapers.books_scraper | Books page 24 parsed: 20 records
+2026-10-06 14:28:20,687 | INFO | scrapers.books_scraper | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 14:28:20,687 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 14:28:21,726 | INFO | scrapers.books_scraper | Books page 25 parsed: 20 records
+2026-10-06 14:28:21,752 | INFO | scrapers.books_scraper | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 14:28:21,752 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 14:28:22,539 | INFO | scrapers.books_scraper | Books page 26 parsed: 20 records
+2026-10-06 14:28:22,565 | INFO | scrapers.books_scraper | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 14:28:22,567 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 14:28:23,436 | INFO | scrapers.books_scraper | Books page 27 parsed: 20 records
+2026-10-06 14:28:23,454 | INFO | scrapers.books_scraper | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 14:28:23,454 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 14:28:24,496 | INFO | scrapers.books_scraper | Books page 28 parsed: 20 records
+2026-10-06 14:28:24,523 | INFO | scrapers.books_scraper | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 14:28:24,523 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 14:28:25,314 | INFO | scrapers.books_scraper | Books page 29 parsed: 20 records
+2026-10-06 14:28:25,344 | INFO | scrapers.books_scraper | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 14:28:25,344 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 14:28:26,134 | INFO | scrapers.books_scraper | Books page 30 parsed: 20 records
+2026-10-06 14:28:26,161 | INFO | scrapers.books_scraper | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 14:28:26,161 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 14:28:26,945 | INFO | scrapers.books_scraper | Books page 31 parsed: 20 records
+2026-10-06 14:28:27,094 | INFO | scrapers.books_scraper | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 14:28:27,094 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 14:28:28,129 | INFO | scrapers.books_scraper | Books page 32 parsed: 20 records
+2026-10-06 14:28:28,163 | INFO | scrapers.books_scraper | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 14:28:28,163 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 14:28:29,205 | INFO | scrapers.books_scraper | Books page 33 parsed: 20 records
+2026-10-06 14:28:29,228 | INFO | scrapers.books_scraper | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 14:28:29,228 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 14:28:30,272 | INFO | scrapers.books_scraper | Books page 34 parsed: 20 records
+2026-10-06 14:28:30,296 | INFO | scrapers.books_scraper | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 14:28:30,296 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 14:28:31,336 | INFO | scrapers.books_scraper | Books page 35 parsed: 20 records
+2026-10-06 14:28:31,357 | INFO | scrapers.books_scraper | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 14:28:31,357 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 14:28:32,393 | INFO | scrapers.books_scraper | Books page 36 parsed: 20 records
+2026-10-06 14:28:32,429 | INFO | scrapers.books_scraper | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 14:28:32,429 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 14:28:33,471 | INFO | scrapers.books_scraper | Books page 37 parsed: 20 records
+2026-10-06 14:28:33,490 | INFO | scrapers.books_scraper | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 14:28:33,490 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 14:28:34,537 | INFO | scrapers.books_scraper | Books page 38 parsed: 20 records
+2026-10-06 14:28:34,567 | INFO | scrapers.books_scraper | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 14:28:34,567 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 14:28:35,355 | INFO | scrapers.books_scraper | Books page 39 parsed: 20 records
+2026-10-06 14:28:35,378 | INFO | scrapers.books_scraper | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 14:28:35,379 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 14:28:36,416 | INFO | scrapers.books_scraper | Books page 40 parsed: 20 records
+2026-10-06 14:28:36,442 | INFO | scrapers.books_scraper | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 14:28:36,442 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 14:28:37,489 | INFO | scrapers.books_scraper | Books page 41 parsed: 20 records
+2026-10-06 14:28:37,524 | INFO | scrapers.books_scraper | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 14:28:37,524 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 14:28:38,312 | INFO | scrapers.books_scraper | Books page 42 parsed: 20 records
+2026-10-06 14:28:38,356 | INFO | scrapers.books_scraper | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 14:28:38,357 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 14:28:39,131 | INFO | scrapers.books_scraper | Books page 43 parsed: 20 records
+2026-10-06 14:28:39,172 | INFO | scrapers.books_scraper | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 14:28:39,172 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 14:28:40,047 | INFO | scrapers.books_scraper | Books page 44 parsed: 20 records
+2026-10-06 14:28:40,083 | INFO | scrapers.books_scraper | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 14:28:40,085 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 14:28:41,123 | INFO | scrapers.books_scraper | Books page 45 parsed: 20 records
+2026-10-06 14:28:41,147 | INFO | scrapers.books_scraper | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 14:28:41,147 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 14:28:42,191 | INFO | scrapers.books_scraper | Books page 46 parsed: 20 records
+2026-10-06 14:28:42,213 | INFO | scrapers.books_scraper | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 14:28:42,213 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 14:28:43,243 | INFO | scrapers.books_scraper | Books page 47 parsed: 20 records
+2026-10-06 14:28:43,281 | INFO | scrapers.books_scraper | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 14:28:43,281 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 14:28:44,320 | INFO | scrapers.books_scraper | Books page 48 parsed: 20 records
+2026-10-06 14:28:44,346 | INFO | scrapers.books_scraper | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 14:28:44,346 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 14:28:45,380 | INFO | scrapers.books_scraper | Books page 49 parsed: 20 records
+2026-10-06 14:28:45,414 | INFO | scrapers.books_scraper | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 14:28:45,415 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 14:28:46,460 | INFO | scrapers.books_scraper | Books page 50 parsed: 20 records
+2026-10-06 14:28:46,493 | INFO | scrapers.books_scraper | Books scrape complete: 1000 raw records
+2026-10-06 14:28:46,513 | INFO | scrapers.quotes_scraper | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 14:28:46,513 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/
+2026-10-06 14:28:48,605 | INFO | scrapers.quotes_scraper | Quotes page 1 parsed: 10 records
+2026-10-06 14:28:48,612 | INFO | scrapers.quotes_scraper | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 14:28:48,612 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/2/
+2026-10-06 14:28:49,636 | INFO | scrapers.quotes_scraper | Quotes page 2 parsed: 10 records
+2026-10-06 14:28:49,643 | INFO | scrapers.quotes_scraper | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 14:28:49,643 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/3/
+2026-10-06 14:28:50,416 | INFO | scrapers.quotes_scraper | Quotes page 3 parsed: 10 records
+2026-10-06 14:28:50,423 | INFO | scrapers.quotes_scraper | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 14:28:50,423 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/4/
+2026-10-06 14:28:51,202 | INFO | scrapers.quotes_scraper | Quotes page 4 parsed: 10 records
+2026-10-06 14:28:51,206 | INFO | scrapers.quotes_scraper | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 14:28:51,210 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/5/
+2026-10-06 14:28:51,982 | INFO | scrapers.quotes_scraper | Quotes page 5 parsed: 10 records
+2026-10-06 14:28:51,984 | INFO | scrapers.quotes_scraper | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 14:28:51,984 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/6/
+2026-10-06 14:28:52,763 | INFO | scrapers.quotes_scraper | Quotes page 6 parsed: 10 records
+2026-10-06 14:28:52,777 | INFO | scrapers.quotes_scraper | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 14:28:52,778 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/7/
+2026-10-06 14:28:53,557 | INFO | scrapers.quotes_scraper | Quotes page 7 parsed: 10 records
+2026-10-06 14:28:53,563 | INFO | scrapers.quotes_scraper | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 14:28:53,563 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/8/
+2026-10-06 14:28:54,336 | INFO | scrapers.quotes_scraper | Quotes page 8 parsed: 10 records
+2026-10-06 14:28:54,344 | INFO | scrapers.quotes_scraper | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 14:28:54,344 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/9/
+2026-10-06 14:28:55,113 | INFO | scrapers.quotes_scraper | Quotes page 9 parsed: 10 records
+2026-10-06 14:28:55,113 | INFO | scrapers.quotes_scraper | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 14:28:55,113 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/10/
+2026-10-06 14:28:55,894 | INFO | scrapers.quotes_scraper | Quotes page 10 parsed: 10 records
+2026-10-06 14:28:55,904 | INFO | scrapers.quotes_scraper | Quotes scrape complete: 100 raw records
+2026-10-06 14:28:55,924 | INFO | root | Final records: 1099
+2026-10-06 14:28:55,924 | INFO | root | CSV written to C:\scraping_assignment\output\final_dataset.csv
+2026-10-06 14:28:55,924 | INFO | root | Summary written to C:\scraping_assignment\output\summary_report.json
+2026-10-06 14:28:55,924 | INFO | root | Pipeline finished in 59.420 seconds
+2026-10-06 21:32:52,139 | INFO | root | Starting scraping assignment pipeline
+2026-10-06 21:32:52,139 | INFO | scrapers.books_scraper | Books page 1: https://books.toscrape.com/
+2026-10-06 21:32:52,139 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/
+2026-10-06 21:32:54,585 | INFO | scrapers.books_scraper | Books page 1 parsed: 20 records
+2026-10-06 21:32:54,612 | INFO | scrapers.books_scraper | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:32:54,612 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:32:55,622 | INFO | scrapers.books_scraper | Books page 2 parsed: 20 records
+2026-10-06 21:32:55,651 | INFO | scrapers.books_scraper | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:32:55,651 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:32:56,663 | INFO | scrapers.books_scraper | Books page 3 parsed: 20 records
+2026-10-06 21:32:56,692 | INFO | scrapers.books_scraper | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:32:56,692 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:32:57,705 | INFO | scrapers.books_scraper | Books page 4 parsed: 20 records
+2026-10-06 21:32:57,731 | INFO | scrapers.books_scraper | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:32:57,731 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:32:58,746 | INFO | scrapers.books_scraper | Books page 5 parsed: 20 records
+2026-10-06 21:32:58,772 | INFO | scrapers.books_scraper | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:32:58,772 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:32:59,782 | INFO | scrapers.books_scraper | Books page 6 parsed: 20 records
+2026-10-06 21:32:59,847 | INFO | scrapers.books_scraper | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:32:59,847 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:33:00,624 | INFO | scrapers.books_scraper | Books page 7 parsed: 20 records
+2026-10-06 21:33:00,647 | INFO | scrapers.books_scraper | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:33:00,647 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:33:01,651 | INFO | scrapers.books_scraper | Books page 8 parsed: 20 records
+2026-10-06 21:33:01,680 | INFO | scrapers.books_scraper | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:33:01,680 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:33:02,544 | INFO | scrapers.books_scraper | Books page 9 parsed: 20 records
+2026-10-06 21:33:02,570 | INFO | scrapers.books_scraper | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:33:02,571 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:33:03,580 | INFO | scrapers.books_scraper | Books page 10 parsed: 20 records
+2026-10-06 21:33:03,607 | INFO | scrapers.books_scraper | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:33:03,607 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:33:04,624 | INFO | scrapers.books_scraper | Books page 11 parsed: 20 records
+2026-10-06 21:33:04,648 | INFO | scrapers.books_scraper | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:33:04,648 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:33:05,651 | INFO | scrapers.books_scraper | Books page 12 parsed: 20 records
+2026-10-06 21:33:05,683 | INFO | scrapers.books_scraper | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:33:05,683 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:33:06,462 | INFO | scrapers.books_scraper | Books page 13 parsed: 20 records
+2026-10-06 21:33:06,491 | INFO | scrapers.books_scraper | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:33:06,491 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:33:07,508 | INFO | scrapers.books_scraper | Books page 14 parsed: 20 records
+2026-10-06 21:33:07,534 | INFO | scrapers.books_scraper | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:33:07,534 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:33:08,548 | INFO | scrapers.books_scraper | Books page 15 parsed: 20 records
+2026-10-06 21:33:08,572 | INFO | scrapers.books_scraper | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:33:08,573 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:33:09,571 | INFO | scrapers.books_scraper | Books page 16 parsed: 20 records
+2026-10-06 21:33:09,606 | INFO | scrapers.books_scraper | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:33:09,606 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:33:10,379 | INFO | scrapers.books_scraper | Books page 17 parsed: 20 records
+2026-10-06 21:33:10,416 | INFO | scrapers.books_scraper | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:33:10,416 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:33:11,193 | INFO | scrapers.books_scraper | Books page 18 parsed: 20 records
+2026-10-06 21:33:11,216 | INFO | scrapers.books_scraper | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:33:11,216 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:33:14,167 | INFO | scrapers.books_scraper | Books page 19 parsed: 20 records
+2026-10-06 21:33:14,193 | INFO | scrapers.books_scraper | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:33:14,193 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:33:14,953 | INFO | scrapers.books_scraper | Books page 20 parsed: 20 records
+2026-10-06 21:33:14,993 | INFO | scrapers.books_scraper | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:33:14,993 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:33:15,766 | INFO | scrapers.books_scraper | Books page 21 parsed: 20 records
+2026-10-06 21:33:15,798 | INFO | scrapers.books_scraper | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:33:15,798 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:33:16,567 | INFO | scrapers.books_scraper | Books page 22 parsed: 20 records
+2026-10-06 21:33:16,702 | INFO | scrapers.books_scraper | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:33:16,702 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:33:17,468 | INFO | scrapers.books_scraper | Books page 23 parsed: 20 records
+2026-10-06 21:33:17,496 | INFO | scrapers.books_scraper | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:33:17,496 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:33:18,280 | INFO | scrapers.books_scraper | Books page 24 parsed: 20 records
+2026-10-06 21:33:18,304 | INFO | scrapers.books_scraper | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:33:18,304 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:33:19,069 | INFO | scrapers.books_scraper | Books page 25 parsed: 20 records
+2026-10-06 21:33:19,096 | INFO | scrapers.books_scraper | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:33:19,096 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:33:19,879 | INFO | scrapers.books_scraper | Books page 26 parsed: 20 records
+2026-10-06 21:33:19,900 | INFO | scrapers.books_scraper | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:33:19,903 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:33:20,678 | INFO | scrapers.books_scraper | Books page 27 parsed: 20 records
+2026-10-06 21:33:20,702 | INFO | scrapers.books_scraper | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:33:20,702 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:33:21,464 | INFO | scrapers.books_scraper | Books page 28 parsed: 20 records
+2026-10-06 21:33:21,497 | INFO | scrapers.books_scraper | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:33:21,501 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:33:22,262 | INFO | scrapers.books_scraper | Books page 29 parsed: 20 records
+2026-10-06 21:33:22,292 | INFO | scrapers.books_scraper | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:33:22,292 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:33:23,307 | INFO | scrapers.books_scraper | Books page 30 parsed: 20 records
+2026-10-06 21:33:23,339 | INFO | scrapers.books_scraper | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:33:23,339 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:33:24,105 | INFO | scrapers.books_scraper | Books page 31 parsed: 20 records
+2026-10-06 21:33:24,229 | INFO | scrapers.books_scraper | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:33:24,229 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:33:25,230 | INFO | scrapers.books_scraper | Books page 32 parsed: 20 records
+2026-10-06 21:33:25,269 | INFO | scrapers.books_scraper | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:33:25,269 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:33:26,036 | INFO | scrapers.books_scraper | Books page 33 parsed: 20 records
+2026-10-06 21:33:26,065 | INFO | scrapers.books_scraper | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:33:26,065 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:33:26,839 | INFO | scrapers.books_scraper | Books page 34 parsed: 20 records
+2026-10-06 21:33:26,861 | INFO | scrapers.books_scraper | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:33:26,863 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:33:27,625 | INFO | scrapers.books_scraper | Books page 35 parsed: 20 records
+2026-10-06 21:33:27,735 | INFO | scrapers.books_scraper | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:33:27,760 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:33:28,768 | INFO | scrapers.books_scraper | Books page 36 parsed: 20 records
+2026-10-06 21:33:28,795 | INFO | scrapers.books_scraper | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:33:28,797 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:33:29,809 | INFO | scrapers.books_scraper | Books page 37 parsed: 20 records
+2026-10-06 21:33:29,837 | INFO | scrapers.books_scraper | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:33:29,837 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:33:30,855 | INFO | scrapers.books_scraper | Books page 38 parsed: 20 records
+2026-10-06 21:33:30,878 | INFO | scrapers.books_scraper | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:33:30,880 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:33:31,885 | INFO | scrapers.books_scraper | Books page 39 parsed: 20 records
+2026-10-06 21:33:31,913 | INFO | scrapers.books_scraper | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:33:31,913 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:33:32,926 | INFO | scrapers.books_scraper | Books page 40 parsed: 20 records
+2026-10-06 21:33:32,946 | INFO | scrapers.books_scraper | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:33:32,946 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:33:33,960 | INFO | scrapers.books_scraper | Books page 41 parsed: 20 records
+2026-10-06 21:33:33,994 | INFO | scrapers.books_scraper | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:33:33,995 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:33:35,007 | INFO | scrapers.books_scraper | Books page 42 parsed: 20 records
+2026-10-06 21:33:35,030 | INFO | scrapers.books_scraper | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:33:35,030 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:33:36,033 | INFO | scrapers.books_scraper | Books page 43 parsed: 20 records
+2026-10-06 21:33:36,067 | INFO | scrapers.books_scraper | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:33:36,067 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:33:37,135 | INFO | scrapers.books_scraper | Books page 44 parsed: 20 records
+2026-10-06 21:33:37,161 | INFO | scrapers.books_scraper | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:33:37,161 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:33:38,185 | INFO | scrapers.books_scraper | Books page 45 parsed: 20 records
+2026-10-06 21:33:38,213 | INFO | scrapers.books_scraper | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:33:38,213 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:33:39,223 | INFO | scrapers.books_scraper | Books page 46 parsed: 20 records
+2026-10-06 21:33:39,247 | INFO | scrapers.books_scraper | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:33:39,247 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:33:40,258 | INFO | scrapers.books_scraper | Books page 47 parsed: 20 records
+2026-10-06 21:33:40,280 | INFO | scrapers.books_scraper | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:33:40,286 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:33:41,281 | INFO | scrapers.books_scraper | Books page 48 parsed: 20 records
+2026-10-06 21:33:41,320 | INFO | scrapers.books_scraper | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:33:41,320 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:33:42,096 | INFO | scrapers.books_scraper | Books page 49 parsed: 20 records
+2026-10-06 21:33:42,115 | INFO | scrapers.books_scraper | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:33:42,115 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:33:43,130 | INFO | scrapers.books_scraper | Books page 50 parsed: 20 records
+2026-10-06 21:33:43,155 | INFO | scrapers.books_scraper | Books scrape complete: 1000 raw records
+2026-10-06 21:33:43,176 | INFO | scrapers.quotes_scraper | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 21:33:43,176 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/
+2026-10-06 21:33:45,179 | INFO | scrapers.quotes_scraper | Quotes page 1 parsed: 10 records
+2026-10-06 21:33:45,185 | INFO | scrapers.quotes_scraper | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:33:45,185 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/2/
+2026-10-06 21:33:46,192 | INFO | scrapers.quotes_scraper | Quotes page 2 parsed: 10 records
+2026-10-06 21:33:46,195 | INFO | scrapers.quotes_scraper | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:33:46,195 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/3/
+2026-10-06 21:33:46,953 | INFO | scrapers.quotes_scraper | Quotes page 3 parsed: 10 records
+2026-10-06 21:33:46,968 | INFO | scrapers.quotes_scraper | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:33:46,968 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/4/
+2026-10-06 21:33:47,729 | INFO | scrapers.quotes_scraper | Quotes page 4 parsed: 10 records
+2026-10-06 21:33:47,745 | INFO | scrapers.quotes_scraper | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:33:47,745 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/5/
+2026-10-06 21:33:48,504 | INFO | scrapers.quotes_scraper | Quotes page 5 parsed: 10 records
+2026-10-06 21:33:48,504 | INFO | scrapers.quotes_scraper | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:33:48,504 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/6/
+2026-10-06 21:33:49,274 | INFO | scrapers.quotes_scraper | Quotes page 6 parsed: 10 records
+2026-10-06 21:33:49,274 | INFO | scrapers.quotes_scraper | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:33:49,274 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/7/
+2026-10-06 21:33:50,053 | INFO | scrapers.quotes_scraper | Quotes page 7 parsed: 10 records
+2026-10-06 21:33:50,057 | INFO | scrapers.quotes_scraper | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:33:50,057 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/8/
+2026-10-06 21:33:50,823 | INFO | scrapers.quotes_scraper | Quotes page 8 parsed: 10 records
+2026-10-06 21:33:50,823 | INFO | scrapers.quotes_scraper | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:33:50,823 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/9/
+2026-10-06 21:33:51,587 | INFO | scrapers.quotes_scraper | Quotes page 9 parsed: 10 records
+2026-10-06 21:33:51,587 | INFO | scrapers.quotes_scraper | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:33:51,587 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/10/
+2026-10-06 21:33:52,361 | INFO | scrapers.quotes_scraper | Quotes page 10 parsed: 10 records
+2026-10-06 21:33:52,364 | INFO | scrapers.quotes_scraper | Quotes scrape complete: 100 raw records
+2026-10-06 21:33:52,394 | INFO | root | Final records: 1099
+2026-10-06 21:33:52,394 | INFO | root | CSV written to C:\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:33:52,394 | INFO | root | Summary written to C:\scraping_assignment\output\summary_report.json
+2026-10-06 21:33:52,394 | INFO | root | Pipeline finished in 60.254 seconds
+2026-10-06 21:35:57,870 | INFO | root | Starting scraping assignment pipeline
+2026-10-06 21:35:57,870 | INFO | scrapers.books_scraper | Books page 1: https://books.toscrape.com/
+2026-10-06 21:35:57,870 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/
+2026-10-06 21:36:00,314 | INFO | scrapers.books_scraper | Books page 1 parsed: 20 records
+2026-10-06 21:36:00,353 | INFO | scrapers.books_scraper | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:36:00,353 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:36:01,386 | INFO | scrapers.books_scraper | Books page 2 parsed: 20 records
+2026-10-06 21:36:01,414 | INFO | scrapers.books_scraper | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:36:01,414 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:36:02,443 | INFO | scrapers.books_scraper | Books page 3 parsed: 20 records
+2026-10-06 21:36:02,471 | INFO | scrapers.books_scraper | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:36:02,471 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:36:03,492 | INFO | scrapers.books_scraper | Books page 4 parsed: 20 records
+2026-10-06 21:36:03,521 | INFO | scrapers.books_scraper | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:36:03,521 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:36:04,554 | INFO | scrapers.books_scraper | Books page 5 parsed: 20 records
+2026-10-06 21:36:04,587 | INFO | scrapers.books_scraper | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:36:04,587 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:36:05,610 | INFO | scrapers.books_scraper | Books page 6 parsed: 20 records
+2026-10-06 21:36:05,651 | INFO | scrapers.books_scraper | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:36:05,653 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:36:06,677 | INFO | scrapers.books_scraper | Books page 7 parsed: 20 records
+2026-10-06 21:36:06,720 | INFO | scrapers.books_scraper | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:36:06,720 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:36:07,738 | INFO | scrapers.books_scraper | Books page 8 parsed: 20 records
+2026-10-06 21:36:07,769 | INFO | scrapers.books_scraper | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:36:07,769 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:36:08,788 | INFO | scrapers.books_scraper | Books page 9 parsed: 20 records
+2026-10-06 21:36:08,819 | INFO | scrapers.books_scraper | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:36:08,819 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:36:09,844 | INFO | scrapers.books_scraper | Books page 10 parsed: 20 records
+2026-10-06 21:36:09,885 | INFO | scrapers.books_scraper | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:36:09,885 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:36:10,659 | INFO | scrapers.books_scraper | Books page 11 parsed: 20 records
+2026-10-06 21:36:10,693 | INFO | scrapers.books_scraper | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:36:10,696 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:36:11,713 | INFO | scrapers.books_scraper | Books page 12 parsed: 20 records
+2026-10-06 21:36:11,893 | INFO | scrapers.books_scraper | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:36:11,905 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:36:12,934 | INFO | scrapers.books_scraper | Books page 13 parsed: 20 records
+2026-10-06 21:36:12,962 | INFO | scrapers.books_scraper | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:36:12,962 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:36:13,992 | INFO | scrapers.books_scraper | Books page 14 parsed: 20 records
+2026-10-06 21:36:14,024 | INFO | scrapers.books_scraper | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:36:14,024 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:36:15,045 | INFO | scrapers.books_scraper | Books page 15 parsed: 20 records
+2026-10-06 21:36:15,060 | INFO | scrapers.books_scraper | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:36:15,060 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:36:16,097 | INFO | scrapers.books_scraper | Books page 16 parsed: 20 records
+2026-10-06 21:36:16,132 | INFO | scrapers.books_scraper | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:36:16,132 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:36:17,163 | INFO | scrapers.books_scraper | Books page 17 parsed: 20 records
+2026-10-06 21:36:17,184 | INFO | scrapers.books_scraper | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:36:17,184 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:36:18,230 | INFO | scrapers.books_scraper | Books page 18 parsed: 20 records
+2026-10-06 21:36:18,259 | INFO | scrapers.books_scraper | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:36:18,259 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:36:19,281 | INFO | scrapers.books_scraper | Books page 19 parsed: 20 records
+2026-10-06 21:36:19,306 | INFO | scrapers.books_scraper | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:36:19,306 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:36:20,349 | INFO | scrapers.books_scraper | Books page 20 parsed: 20 records
+2026-10-06 21:36:20,384 | INFO | scrapers.books_scraper | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:36:20,384 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:36:21,180 | INFO | scrapers.books_scraper | Books page 21 parsed: 20 records
+2026-10-06 21:36:21,220 | INFO | scrapers.books_scraper | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:36:21,220 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:36:22,287 | INFO | scrapers.books_scraper | Books page 22 parsed: 20 records
+2026-10-06 21:36:22,316 | INFO | scrapers.books_scraper | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:36:22,316 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:36:23,330 | INFO | scrapers.books_scraper | Books page 23 parsed: 20 records
+2026-10-06 21:36:23,374 | INFO | scrapers.books_scraper | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:36:23,384 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:36:24,163 | INFO | scrapers.books_scraper | Books page 24 parsed: 20 records
+2026-10-06 21:36:24,202 | INFO | scrapers.books_scraper | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:36:24,202 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:36:25,227 | INFO | scrapers.books_scraper | Books page 25 parsed: 20 records
+2026-10-06 21:36:25,250 | INFO | scrapers.books_scraper | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:36:25,250 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:36:26,285 | INFO | scrapers.books_scraper | Books page 26 parsed: 20 records
+2026-10-06 21:36:26,315 | INFO | scrapers.books_scraper | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:36:26,315 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:36:27,328 | INFO | scrapers.books_scraper | Books page 27 parsed: 20 records
+2026-10-06 21:36:27,362 | INFO | scrapers.books_scraper | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:36:27,362 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:36:28,383 | INFO | scrapers.books_scraper | Books page 28 parsed: 20 records
+2026-10-06 21:36:28,441 | INFO | scrapers.books_scraper | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:36:28,442 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:36:29,234 | INFO | scrapers.books_scraper | Books page 29 parsed: 20 records
+2026-10-06 21:36:29,268 | INFO | scrapers.books_scraper | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:36:29,270 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:36:30,581 | INFO | scrapers.books_scraper | Books page 30 parsed: 20 records
+2026-10-06 21:36:30,625 | INFO | scrapers.books_scraper | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:36:30,625 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:36:31,692 | INFO | scrapers.books_scraper | Books page 31 parsed: 20 records
+2026-10-06 21:36:31,723 | INFO | scrapers.books_scraper | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:36:31,725 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:36:32,745 | INFO | scrapers.books_scraper | Books page 32 parsed: 20 records
+2026-10-06 21:36:32,768 | INFO | scrapers.books_scraper | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:36:32,768 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:36:33,802 | INFO | scrapers.books_scraper | Books page 33 parsed: 20 records
+2026-10-06 21:36:33,827 | INFO | scrapers.books_scraper | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:36:33,827 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:36:34,845 | INFO | scrapers.books_scraper | Books page 34 parsed: 20 records
+2026-10-06 21:36:34,877 | INFO | scrapers.books_scraper | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:36:34,880 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:36:35,902 | INFO | scrapers.books_scraper | Books page 35 parsed: 20 records
+2026-10-06 21:36:35,934 | INFO | scrapers.books_scraper | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:36:35,934 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:36:36,961 | INFO | scrapers.books_scraper | Books page 36 parsed: 20 records
+2026-10-06 21:36:36,983 | INFO | scrapers.books_scraper | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:36:36,983 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:36:38,002 | INFO | scrapers.books_scraper | Books page 37 parsed: 20 records
+2026-10-06 21:36:38,034 | INFO | scrapers.books_scraper | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:36:38,034 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:36:39,046 | INFO | scrapers.books_scraper | Books page 38 parsed: 20 records
+2026-10-06 21:36:39,075 | INFO | scrapers.books_scraper | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:36:39,075 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:36:40,095 | INFO | scrapers.books_scraper | Books page 39 parsed: 20 records
+2026-10-06 21:36:40,128 | INFO | scrapers.books_scraper | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:36:40,128 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:36:40,910 | INFO | scrapers.books_scraper | Books page 40 parsed: 20 records
+2026-10-06 21:36:40,927 | INFO | scrapers.books_scraper | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:36:40,927 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:36:41,730 | INFO | scrapers.books_scraper | Books page 41 parsed: 20 records
+2026-10-06 21:36:41,751 | INFO | scrapers.books_scraper | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:36:41,751 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:36:42,762 | INFO | scrapers.books_scraper | Books page 42 parsed: 20 records
+2026-10-06 21:36:42,799 | INFO | scrapers.books_scraper | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:36:42,801 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:36:43,595 | INFO | scrapers.books_scraper | Books page 43 parsed: 20 records
+2026-10-06 21:36:43,637 | INFO | scrapers.books_scraper | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:36:43,637 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:36:44,994 | INFO | scrapers.books_scraper | Books page 44 parsed: 20 records
+2026-10-06 21:36:45,018 | INFO | scrapers.books_scraper | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:36:45,018 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:36:46,031 | INFO | scrapers.books_scraper | Books page 45 parsed: 20 records
+2026-10-06 21:36:46,063 | INFO | scrapers.books_scraper | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:36:46,063 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:36:47,092 | INFO | scrapers.books_scraper | Books page 46 parsed: 20 records
+2026-10-06 21:36:47,117 | INFO | scrapers.books_scraper | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:36:47,117 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:36:47,894 | INFO | scrapers.books_scraper | Books page 47 parsed: 20 records
+2026-10-06 21:36:47,917 | INFO | scrapers.books_scraper | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:36:47,917 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:36:48,697 | INFO | scrapers.books_scraper | Books page 48 parsed: 20 records
+2026-10-06 21:36:48,720 | INFO | scrapers.books_scraper | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:36:48,727 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:36:49,505 | INFO | scrapers.books_scraper | Books page 49 parsed: 20 records
+2026-10-06 21:36:49,530 | INFO | scrapers.books_scraper | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:36:49,530 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:36:50,315 | INFO | scrapers.books_scraper | Books page 50 parsed: 20 records
+2026-10-06 21:36:50,349 | INFO | scrapers.books_scraper | Books scrape complete: 1000 raw records
+2026-10-06 21:36:50,368 | INFO | scrapers.quotes_scraper | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 21:36:50,368 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/
+2026-10-06 21:36:52,396 | INFO | scrapers.quotes_scraper | Quotes page 1 parsed: 10 records
+2026-10-06 21:36:52,400 | INFO | scrapers.quotes_scraper | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:36:52,400 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/2/
+2026-10-06 21:36:53,401 | INFO | scrapers.quotes_scraper | Quotes page 2 parsed: 10 records
+2026-10-06 21:36:53,408 | INFO | scrapers.quotes_scraper | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:36:53,408 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/3/
+2026-10-06 21:36:54,167 | INFO | scrapers.quotes_scraper | Quotes page 3 parsed: 10 records
+2026-10-06 21:36:54,177 | INFO | scrapers.quotes_scraper | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:36:54,177 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/4/
+2026-10-06 21:36:54,934 | INFO | scrapers.quotes_scraper | Quotes page 4 parsed: 10 records
+2026-10-06 21:36:54,948 | INFO | scrapers.quotes_scraper | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:36:54,948 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/5/
+2026-10-06 21:36:55,704 | INFO | scrapers.quotes_scraper | Quotes page 5 parsed: 10 records
+2026-10-06 21:36:55,715 | INFO | scrapers.quotes_scraper | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:36:55,715 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/6/
+2026-10-06 21:36:56,472 | INFO | scrapers.quotes_scraper | Quotes page 6 parsed: 10 records
+2026-10-06 21:36:56,479 | INFO | scrapers.quotes_scraper | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:36:56,479 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/7/
+2026-10-06 21:36:57,237 | INFO | scrapers.quotes_scraper | Quotes page 7 parsed: 10 records
+2026-10-06 21:36:57,245 | INFO | scrapers.quotes_scraper | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:36:57,245 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/8/
+2026-10-06 21:36:58,008 | INFO | scrapers.quotes_scraper | Quotes page 8 parsed: 10 records
+2026-10-06 21:36:58,021 | INFO | scrapers.quotes_scraper | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:36:58,021 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/9/
+2026-10-06 21:36:58,780 | INFO | scrapers.quotes_scraper | Quotes page 9 parsed: 10 records
+2026-10-06 21:36:58,785 | INFO | scrapers.quotes_scraper | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:36:58,785 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/10/
+2026-10-06 21:36:59,547 | INFO | scrapers.quotes_scraper | Quotes page 10 parsed: 10 records
+2026-10-06 21:36:59,554 | INFO | scrapers.quotes_scraper | Quotes scrape complete: 100 raw records
+2026-10-06 21:36:59,583 | INFO | root | Final records: 1099
+2026-10-06 21:36:59,583 | INFO | root | CSV written to C:\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:36:59,583 | INFO | root | Summary written to C:\scraping_assignment\output\summary_report.json
+2026-10-06 21:36:59,588 | INFO | root | Pipeline finished in 61.712 seconds
+2026-10-06 21:46:57,239 | INFO | root | Starting scraping assignment pipeline
+2026-10-06 21:46:57,239 | INFO | scrapers.books_scraper | Books page 1: https://books.toscrape.com/
+2026-10-06 21:46:57,241 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/
+2026-10-06 21:46:59,781 | INFO | scrapers.books_scraper | Books page 1 parsed: 20 records
+2026-10-06 21:46:59,806 | INFO | scrapers.books_scraper | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:46:59,806 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:47:00,847 | INFO | scrapers.books_scraper | Books page 2 parsed: 20 records
+2026-10-06 21:47:00,872 | INFO | scrapers.books_scraper | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:47:00,872 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:47:01,911 | INFO | scrapers.books_scraper | Books page 3 parsed: 20 records
+2026-10-06 21:47:01,944 | INFO | scrapers.books_scraper | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:47:01,944 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:47:03,278 | INFO | scrapers.books_scraper | Books page 4 parsed: 20 records
+2026-10-06 21:47:03,300 | INFO | scrapers.books_scraper | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:47:03,300 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:47:04,344 | INFO | scrapers.books_scraper | Books page 5 parsed: 20 records
+2026-10-06 21:47:04,368 | INFO | scrapers.books_scraper | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:47:04,368 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:47:05,416 | INFO | scrapers.books_scraper | Books page 6 parsed: 20 records
+2026-10-06 21:47:05,442 | INFO | scrapers.books_scraper | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:47:05,442 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:47:06,544 | INFO | scrapers.books_scraper | Books page 7 parsed: 20 records
+2026-10-06 21:47:06,561 | INFO | scrapers.books_scraper | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:47:06,561 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:47:07,633 | INFO | scrapers.books_scraper | Books page 8 parsed: 20 records
+2026-10-06 21:47:07,659 | INFO | scrapers.books_scraper | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:47:07,659 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:47:08,700 | INFO | scrapers.books_scraper | Books page 9 parsed: 20 records
+2026-10-06 21:47:08,726 | INFO | scrapers.books_scraper | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:47:08,726 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:47:09,585 | INFO | scrapers.books_scraper | Books page 10 parsed: 20 records
+2026-10-06 21:47:09,618 | INFO | scrapers.books_scraper | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:47:09,618 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:47:10,817 | INFO | scrapers.books_scraper | Books page 11 parsed: 20 records
+2026-10-06 21:47:10,849 | INFO | scrapers.books_scraper | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:47:10,849 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:47:11,982 | INFO | scrapers.books_scraper | Books page 12 parsed: 20 records
+2026-10-06 21:47:12,006 | INFO | scrapers.books_scraper | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:47:12,006 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:47:13,178 | INFO | scrapers.books_scraper | Books page 13 parsed: 20 records
+2026-10-06 21:47:13,205 | INFO | scrapers.books_scraper | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:47:13,205 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:47:14,500 | INFO | scrapers.books_scraper | Books page 14 parsed: 20 records
+2026-10-06 21:47:14,532 | INFO | scrapers.books_scraper | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:47:14,532 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:47:15,329 | INFO | scrapers.books_scraper | Books page 15 parsed: 20 records
+2026-10-06 21:47:15,354 | INFO | scrapers.books_scraper | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:47:15,356 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:47:16,394 | INFO | scrapers.books_scraper | Books page 16 parsed: 20 records
+2026-10-06 21:47:16,421 | INFO | scrapers.books_scraper | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:47:16,422 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:47:17,462 | INFO | scrapers.books_scraper | Books page 17 parsed: 20 records
+2026-10-06 21:47:17,493 | INFO | scrapers.books_scraper | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:47:17,493 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:47:18,534 | INFO | scrapers.books_scraper | Books page 18 parsed: 20 records
+2026-10-06 21:47:18,561 | INFO | scrapers.books_scraper | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:47:18,561 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:47:19,610 | INFO | scrapers.books_scraper | Books page 19 parsed: 20 records
+2026-10-06 21:47:19,645 | INFO | scrapers.books_scraper | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:47:19,645 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:47:20,687 | INFO | scrapers.books_scraper | Books page 20 parsed: 20 records
+2026-10-06 21:47:20,712 | INFO | scrapers.books_scraper | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:47:20,715 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:47:21,761 | INFO | scrapers.books_scraper | Books page 21 parsed: 20 records
+2026-10-06 21:47:21,791 | INFO | scrapers.books_scraper | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:47:21,791 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:47:22,847 | INFO | scrapers.books_scraper | Books page 22 parsed: 20 records
+2026-10-06 21:47:22,871 | INFO | scrapers.books_scraper | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:47:22,871 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:47:23,918 | INFO | scrapers.books_scraper | Books page 23 parsed: 20 records
+2026-10-06 21:47:23,943 | INFO | scrapers.books_scraper | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:47:23,943 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:47:24,986 | INFO | scrapers.books_scraper | Books page 24 parsed: 20 records
+2026-10-06 21:47:25,025 | INFO | scrapers.books_scraper | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:47:25,025 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:47:26,075 | INFO | scrapers.books_scraper | Books page 25 parsed: 20 records
+2026-10-06 21:47:26,296 | INFO | scrapers.books_scraper | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:47:26,296 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:47:27,338 | INFO | scrapers.books_scraper | Books page 26 parsed: 20 records
+2026-10-06 21:47:27,363 | INFO | scrapers.books_scraper | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:47:27,365 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:47:28,399 | INFO | scrapers.books_scraper | Books page 27 parsed: 20 records
+2026-10-06 21:47:28,430 | INFO | scrapers.books_scraper | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:47:28,430 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:47:29,468 | INFO | scrapers.books_scraper | Books page 28 parsed: 20 records
+2026-10-06 21:47:29,500 | INFO | scrapers.books_scraper | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:47:29,500 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:47:30,538 | INFO | scrapers.books_scraper | Books page 29 parsed: 20 records
+2026-10-06 21:47:30,566 | INFO | scrapers.books_scraper | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:47:30,570 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:47:31,610 | INFO | scrapers.books_scraper | Books page 30 parsed: 20 records
+2026-10-06 21:47:31,631 | INFO | scrapers.books_scraper | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:47:31,640 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:47:32,680 | INFO | scrapers.books_scraper | Books page 31 parsed: 20 records
+2026-10-06 21:47:32,710 | INFO | scrapers.books_scraper | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:47:32,710 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:47:33,760 | INFO | scrapers.books_scraper | Books page 32 parsed: 20 records
+2026-10-06 21:47:33,793 | INFO | scrapers.books_scraper | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:47:33,793 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:47:34,847 | INFO | scrapers.books_scraper | Books page 33 parsed: 20 records
+2026-10-06 21:47:34,872 | INFO | scrapers.books_scraper | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:47:34,872 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:47:35,917 | INFO | scrapers.books_scraper | Books page 34 parsed: 20 records
+2026-10-06 21:47:35,945 | INFO | scrapers.books_scraper | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:47:35,945 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:47:36,987 | INFO | scrapers.books_scraper | Books page 35 parsed: 20 records
+2026-10-06 21:47:37,018 | INFO | scrapers.books_scraper | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:47:37,021 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:47:38,057 | INFO | scrapers.books_scraper | Books page 36 parsed: 20 records
+2026-10-06 21:47:38,085 | INFO | scrapers.books_scraper | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:47:38,085 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:47:39,120 | INFO | scrapers.books_scraper | Books page 37 parsed: 20 records
+2026-10-06 21:47:39,295 | INFO | scrapers.books_scraper | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:47:39,295 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:47:40,334 | INFO | scrapers.books_scraper | Books page 38 parsed: 20 records
+2026-10-06 21:47:40,351 | INFO | scrapers.books_scraper | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:47:40,351 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:47:41,395 | INFO | scrapers.books_scraper | Books page 39 parsed: 20 records
+2026-10-06 21:47:41,418 | INFO | scrapers.books_scraper | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:47:41,418 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:47:42,463 | INFO | scrapers.books_scraper | Books page 40 parsed: 20 records
+2026-10-06 21:47:42,486 | INFO | scrapers.books_scraper | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:47:42,486 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:47:43,528 | INFO | scrapers.books_scraper | Books page 41 parsed: 20 records
+2026-10-06 21:47:43,551 | INFO | scrapers.books_scraper | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:47:43,551 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:47:44,595 | INFO | scrapers.books_scraper | Books page 42 parsed: 20 records
+2026-10-06 21:47:44,613 | INFO | scrapers.books_scraper | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:47:44,613 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:47:45,876 | INFO | scrapers.books_scraper | Books page 43 parsed: 20 records
+2026-10-06 21:47:45,907 | INFO | scrapers.books_scraper | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:47:45,907 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:47:46,697 | INFO | scrapers.books_scraper | Books page 44 parsed: 20 records
+2026-10-06 21:47:46,732 | INFO | scrapers.books_scraper | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:47:46,732 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:47:47,767 | INFO | scrapers.books_scraper | Books page 45 parsed: 20 records
+2026-10-06 21:47:47,803 | INFO | scrapers.books_scraper | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:47:47,803 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:47:48,847 | INFO | scrapers.books_scraper | Books page 46 parsed: 20 records
+2026-10-06 21:47:48,873 | INFO | scrapers.books_scraper | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:47:48,873 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:47:49,915 | INFO | scrapers.books_scraper | Books page 47 parsed: 20 records
+2026-10-06 21:47:49,940 | INFO | scrapers.books_scraper | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:47:49,940 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:47:50,984 | INFO | scrapers.books_scraper | Books page 48 parsed: 20 records
+2026-10-06 21:47:51,003 | INFO | scrapers.books_scraper | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:47:51,003 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:47:52,048 | INFO | scrapers.books_scraper | Books page 49 parsed: 20 records
+2026-10-06 21:47:52,084 | INFO | scrapers.books_scraper | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:47:52,084 | INFO | scrapers.base_scraper | Request: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:47:53,300 | INFO | scrapers.books_scraper | Books page 50 parsed: 20 records
+2026-10-06 21:47:53,338 | INFO | scrapers.books_scraper | Books scrape complete: 1000 raw records
+2026-10-06 21:47:53,372 | INFO | scrapers.quotes_scraper | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 21:47:53,386 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/
+2026-10-06 21:47:55,844 | INFO | scrapers.quotes_scraper | Quotes page 1 parsed: 10 records
+2026-10-06 21:47:55,852 | INFO | scrapers.quotes_scraper | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:47:55,852 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/2/
+2026-10-06 21:47:56,865 | INFO | scrapers.quotes_scraper | Quotes page 2 parsed: 10 records
+2026-10-06 21:47:56,871 | INFO | scrapers.quotes_scraper | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:47:56,871 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/3/
+2026-10-06 21:47:57,643 | INFO | scrapers.quotes_scraper | Quotes page 3 parsed: 10 records
+2026-10-06 21:47:57,651 | INFO | scrapers.quotes_scraper | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:47:57,651 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/4/
+2026-10-06 21:47:58,413 | INFO | scrapers.quotes_scraper | Quotes page 4 parsed: 10 records
+2026-10-06 21:47:58,414 | INFO | scrapers.quotes_scraper | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:47:58,414 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/5/
+2026-10-06 21:47:59,181 | INFO | scrapers.quotes_scraper | Quotes page 5 parsed: 10 records
+2026-10-06 21:47:59,192 | INFO | scrapers.quotes_scraper | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:47:59,192 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/6/
+2026-10-06 21:47:59,948 | INFO | scrapers.quotes_scraper | Quotes page 6 parsed: 10 records
+2026-10-06 21:47:59,964 | INFO | scrapers.quotes_scraper | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:47:59,964 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/7/
+2026-10-06 21:48:00,727 | INFO | scrapers.quotes_scraper | Quotes page 7 parsed: 10 records
+2026-10-06 21:48:00,736 | INFO | scrapers.quotes_scraper | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:48:00,736 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/8/
+2026-10-06 21:48:01,494 | INFO | scrapers.quotes_scraper | Quotes page 8 parsed: 10 records
+2026-10-06 21:48:01,501 | INFO | scrapers.quotes_scraper | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:48:01,501 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/9/
+2026-10-06 21:48:02,261 | INFO | scrapers.quotes_scraper | Quotes page 9 parsed: 10 records
+2026-10-06 21:48:02,282 | INFO | scrapers.quotes_scraper | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:48:02,282 | INFO | scrapers.base_scraper | Request: https://quotes.toscrape.com/page/10/
+2026-10-06 21:48:03,046 | INFO | scrapers.quotes_scraper | Quotes page 10 parsed: 10 records
+2026-10-06 21:48:03,048 | INFO | scrapers.quotes_scraper | Quotes scrape complete: 100 raw records
+2026-10-06 21:48:03,079 | INFO | root | Final records: 1099
+2026-10-06 21:48:03,079 | INFO | root | CSV written to C:\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:48:03,079 | INFO | root | Summary written to C:\scraping_assignment\output\summary_report.json
+2026-10-06 21:48:03,079 | INFO | root | Pipeline finished in 65.842 seconds

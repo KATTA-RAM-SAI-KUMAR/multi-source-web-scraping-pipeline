@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache / test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Keep the required sample execution log in the repository
+logs/*.log
+!logs/scraper.log
